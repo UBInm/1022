@@ -38,7 +38,7 @@ body
 #main
 {
 margin: 0 auto;
-
+width: 998px;
 background: #ADE8FC;
 border: 15px solid #ADE8FC;
 margin-bottom: 30px
@@ -294,7 +294,7 @@ font-weight: bold;
 
 
 #slider-wrapper {
-    width: 800px;
+    width: 998px;
     height: 327px;
     margin:0 auto;
 }
