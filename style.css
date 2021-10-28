@@ -11,7 +11,10 @@ body
     background: rgb(189, 236, 255);
 }
 
-
+h2{
+font-size: 25px;
+color: rgb(189, 236, 255);
+}
 
 #logo
 {
@@ -43,7 +46,7 @@ font-size: 10px;
 }
 
 #buttons ul {
-    padding-left: 80px;
+    padding-left: 155px;
     margin: 0px;      
 }
 
@@ -96,7 +99,7 @@ font-size: 10px;
 }
 
 #Etiam01{
-	padding: 35px;
+	padding: 25px;
 	
 	border-left:40px solid rgb(255, 255, 255);
 	border-right:10px solid rgb(255, 255, 255);
@@ -106,8 +109,8 @@ font-size: 10px;
 }
 
 #Etiam02{
-	padding: 35px;
-	border-right:40px solid rgb(255, 255, 255);
+	padding: 25px;
+	border-right:67px solid rgb(255, 255, 255);
 	border-left:10px solid rgb(255, 255, 255);
 	background-color:rgb(189, 236, 255) ;
 
@@ -116,4 +119,51 @@ font-size: 10px;
 #Etiam h2{
 
 	color: rgb(75, 204, 255);
+}
+
+#Nullam{
+  
+	border-left:13px solid rgb(189, 236, 255);
+	border-right:13px solid rgb(189, 236, 255);	
+}
+
+#Nullam01{
+	padding-top:25px;
+padding-left: 70px;
+padding-right: 60px;
+padding-bottom: 45px;
+	background-color: rgb(255, 255, 255);
+}
+
+#Nullam02{
+	padding-top:25px;
+	padding-left: 10px;
+	padding-right: 95px;
+	padding-bottom: 45px;
+	background-color: rgb(255, 255, 255);
+}
+
+#Nullam01 h4{
+	font-size: small;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', bold, sans-serif;
+}
+
+#footer
+{
+	background: url(images/footer.gif) repeat-x;
+	height: 50px;
+	margin: 0 auto;
+	font-size: 10px;
+	color: #ffffff;
+	padding-top: 20px;
+	padding-bottom: 60px;
+	text-align: center;
+	clear:both;
+}
+
+#footer a
+{
+color: #ffffff;
+font-size: 10px;
+text-decoration: none;
 }
