@@ -8,7 +8,7 @@ body
 
  .container {
 
-    background: rgb(127, 219, 255);
+    background: rgb(189, 236, 255);
 }
 
 
@@ -37,8 +37,8 @@ font-size: 10px;
 #buttons
 {
 	height: 62px;
-    border-left:13px solid rgb(127, 219, 255);
-    border-right:13px solid rgb(127, 219, 255);
+    border-left:13px solid rgb(189, 236, 255);
+    border-right:13px solid rgb(189, 236, 255);
 	background: url(images/menu.gif) repeat-x;
 }
 
@@ -55,7 +55,7 @@ font-size: 10px;
 	display: block;
 	float: left;
 	width: 190px;
-	height: 40px;
+	height: 62px;
 	text-align: center;
 	text-decoration: none;
 	color: #ffffff;
@@ -66,19 +66,19 @@ font-size: 10px;
 }
 
 #buttons a:hover {
-	width: 115px;
+	width: 190px;
     height: 40px;
 	background: url(images/menu_hover.gif) repeat-x;
 }
 
 #option{
     
-    border-left:13px solid rgb(127, 219, 255);
-    border-right:13px solid rgb(127, 219, 255);
+    border-left:13px solid rgb(189, 236, 255);
+    border-right:13px solid rgb(189, 236, 255);
 }
 
 #option h2{
-    color: rgb(127, 219, 255);
+    color: rgb(189, 236, 255);
 }
 .link1 { 
 	background:url(images/bull-1.gif) no-repeat 0 6px;
@@ -86,4 +86,34 @@ font-size: 10px;
 	font-weight:bold;
 	text-transform: uppercase;
 	color: #00D8FF
+}
+
+#Etiam{
+	
+	border-left:13px solid rgb(189, 236, 255);
+	border-right:13px solid rgb(189, 236, 255);
+    
+}
+
+#Etiam01{
+	padding: 35px;
+	
+	border-left:40px solid rgb(255, 255, 255);
+	border-right:10px solid rgb(255, 255, 255);
+
+	background-color:rgb(189, 236, 255) ;
+
+}
+
+#Etiam02{
+	padding: 35px;
+	border-right:40px solid rgb(255, 255, 255);
+	border-left:10px solid rgb(255, 255, 255);
+	background-color:rgb(189, 236, 255) ;
+
+}
+
+#Etiam h2{
+
+	color: rgb(75, 204, 255);
 }
